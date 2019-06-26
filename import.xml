@@ -1,0 +1,31 @@
+<wordbook>
+    <item>
+        <word>demo</word>
+        <trans><![CDATA[
+     n. 演示；样本唱片；示威；民主党员
+     n. (Demo)人名；(意、阿尔巴)德莫
+    ]]></trans>
+        <tags>DEMO</tags>
+    </item>
+    <item>
+        <word>daniel</word>
+        <trans><![CDATA[
+     n. 丹尼尔（男子名）
+    ]]></trans>
+        <tags>DEMO</tags>
+    </item>
+    <item>
+        <word>test</word>
+        <trans><![CDATA[
+     测试
+    ]]></trans>
+        <tags>TEST</tags>
+    </item>
+    <item>
+        <word>sarah</word>
+        <trans><![CDATA[
+     n. 莎拉（女子名）；萨拉（《圣经》中的人物）
+    ]]></trans>
+        <tags>TEST</tags>
+    </item>
+</wordbook>
