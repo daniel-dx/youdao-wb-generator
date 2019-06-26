@@ -1,31 +1,2476 @@
 <wordbook>
     <item>
-        <word>demo</word>
+        <word>time</word>
         <trans><![CDATA[
-     n. 演示；样本唱片；示威；民主党员
-     n. (Demo)人名；(意、阿尔巴)德莫
+     n. 时间；时代；次数；节拍；倍数
+     vt. 计时；测定…的时间；安排…的速度
+     adj. 定时的；定期的；分期的
+     n. (Time)人名；(俄)季梅；(英)泰姆；(罗)蒂梅
     ]]></trans>
-        <tags>DEMO</tags>
+        <tags>时间类</tags>
     </item>
     <item>
-        <word>daniel</word>
+        <word>morning</word>
         <trans><![CDATA[
-     n. 丹尼尔（男子名）
+     n. 早晨；黎明；初期
     ]]></trans>
-        <tags>DEMO</tags>
+        <tags>时间类</tags>
     </item>
     <item>
-        <word>test</word>
+        <word>afternoon</word>
         <trans><![CDATA[
-     测试
+     n. 午后，下午
     ]]></trans>
-        <tags>TEST</tags>
+        <tags>时间类</tags>
     </item>
     <item>
-        <word>sarah</word>
+        <word>noon</word>
         <trans><![CDATA[
-     n. 莎拉（女子名）；萨拉（《圣经》中的人物）
+     n. 中午；正午；全盛期
+     n. (Noon)人名；(朝)嫩；(英、巴基)努恩
     ]]></trans>
-        <tags>TEST</tags>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>evening</word>
+        <trans><![CDATA[
+     n. 晚上；傍晚；（联欢性的）晚会；后期
+     adj. 在晚上的；为晚上的；晚上用的
+     int. 晚上好（等于good evening）
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>night</word>
+        <trans><![CDATA[
+     n. 夜晚，晚上；黑暗，黑夜
+     adj. 夜晚的，夜间的
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>tonight</word>
+        <trans><![CDATA[
+     adv. 在今晚，今夜
+     n. 今晚，今夜
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>today</word>
+        <trans><![CDATA[
+     adv. 今天；现今
+     n. 今天；现今
+     n. (Today)人名；(英)托迪
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>tomorrow</word>
+        <trans><![CDATA[
+     adv. 在明天，在明日；在未来
+     n. 明天，明日； 未来，来日（尤指不久的将来）
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>yesterday</word>
+        <trans><![CDATA[
+     adv. 在昨天
+     n. 昨天；最近，往昔
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>weekend</word>
+        <trans><![CDATA[
+     n. 周末，周末休假；周末聚会
+     adj. 周末的，周末用的
+     vi. 度周末
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>month</word>
+        <trans><![CDATA[
+     n. 月，一个月的时间
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>year</word>
+        <trans><![CDATA[
+     n. 年；年度；历年；年纪；一年的期间；某年级的学生
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>season</word>
+        <trans><![CDATA[
+     n. 时期；季节；赛季
+     vt. 给…调味；使适应
+     vi. 变得成熟；变干燥
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>spring</word>
+        <trans><![CDATA[
+     n. 春天；弹簧；泉水；活力；跳跃
+     adj. 春天的
+     vi. 生长；涌出；跃出；裂开
+     vt. 使跳起；使爆炸；突然提出；使弹开
+     n. (Spring)人名；(德)施普林；(英、芬、瑞典)斯普林
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>autumn</word>
+        <trans><![CDATA[
+     n. 秋天；成熟期；渐衰期，凋落期
+     adj. 秋天的，秋季的
+     n. (Autumn)人名；(英)奥特姆
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>winter</word>
+        <trans><![CDATA[
+     n. 冬季；年岁；萧条期
+     vi. 过冬
+     adj. 冬天的；越冬的
+     n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>day</word>
+        <trans><![CDATA[
+     n. 一天；时期；白昼
+     adv. 每天；经常在白天地
+     adj. 日间的；逐日的
+     n. (Day)人名；(英、法、西)戴；(越)岱；(阿拉伯、土)达伊
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>date</word>
+        <trans><![CDATA[
+     n. 日期；约会；年代；枣椰子
+     vi. 过时；注明日期；始于（某一历史时期）
+     vt. 确定…年代；和…约会
+     n. (Date)人名；(日)伊达 (姓)；(英)戴特
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>moment</word>
+        <trans><![CDATA[
+     n. 片刻，瞬间，时刻；重要，契机
+     n. (Moment)人名；(英)莫门特
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>period</word>
+        <trans><![CDATA[
+     n. 周期，期间；时期；一段时间；经期；课时；句点，句号
+     adj. 某一时代的
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>history</word>
+        <trans><![CDATA[
+     n. 历史，历史学；历史记录；来历
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>future</word>
+        <trans><![CDATA[
+     n. 未来；前途；期货；将来时
+     adj. 将来的，未来的
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>birthday</word>
+        <trans><![CDATA[
+     n. 生日，诞辰；诞生的日子
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>holiday</word>
+        <trans><![CDATA[
+     n. 假日；节日；休息日
+     vi. 外出度假
+     n. (Holiday)人名；(英)霍利迪
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>festival</word>
+        <trans><![CDATA[
+     n. 节日；庆祝，纪念活动；欢乐
+     adj. 节日的，喜庆的；快乐的
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>schedule</word>
+        <trans><![CDATA[
+     n. 计划（表）；时间表；一览表；（电视或广播）节目表；课程表；报税单；附件（尤指表格、单据等）
+     v. 安排，预定；将……列入计划表或清单；把（建筑物）列为文物保护单位
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>age</word>
+        <trans><![CDATA[
+     n. 年龄；时代；寿命，使用年限；阶段
+     vi. 成熟；变老
+     vt. 使成熟；使变老，使上年纪
+     n. (Age)人名；(瑞典)阿格；(日)扬 (姓)；(西、荷)阿赫
+    ]]></trans>
+        <tags>时间类</tags>
+    </item>
+    <item>
+        <word>weather</word>
+        <trans><![CDATA[
+     n. 天气；气象；气候；处境
+     vt. 经受住；使风化；侵蚀；使受风吹雨打
+     vi. 风化；受侵蚀；经受风雨
+     adj. 露天的；迎风的
+     n. (Weather)人名；(英)韦瑟
+    ]]></trans>
+        <tags>气候类</tags>
+    </item>
+    <item>
+        <word>rain</word>
+        <trans><![CDATA[
+     n. 雨；下雨；雨天；雨季
+     vi. 下雨；降雨
+     vt. 大量地给；使大量落下
+     n. (Rain)人名；(法)兰；(英)雷恩；(罗、捷)赖恩
+    ]]></trans>
+        <tags>气候类</tags>
+    </item>
+    <item>
+        <word>snow</word>
+        <trans><![CDATA[
+     n. 雪，积雪；下雪
+     vi. 降雪
+     vt. 使纷纷落下；使变白
+     n. (Snow)人名；(英)斯诺
+    ]]></trans>
+        <tags>气候类</tags>
+    </item>
+    <item>
+        <word>wind</word>
+        <trans><![CDATA[
+     n. 风；呼吸；气味；卷绕
+     vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人
+     vi. 缠绕；上发条；吹响号角
+     n. (Wind)人名；(英、德、瑞典)温德
+    ]]></trans>
+        <tags>气候类</tags>
+    </item>
+    <item>
+        <word>cloud</word>
+        <trans><![CDATA[
+     n. 云；阴云；云状物；一大群；黑斑
+     vt. 使混乱；以云遮蔽；使忧郁；玷污
+     vi. 阴沉；乌云密布
+     n. (Cloud) 克劳德（人名）
+    ]]></trans>
+        <tags>气候类</tags>
+    </item>
+    <item>
+        <word>nature</word>
+        <trans><![CDATA[
+     n. 自然；性质；本性；种类
+     n. (Nature)人名；(法)纳蒂尔
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>mountain</word>
+        <trans><![CDATA[
+     n. 山；山脉
+     n. (Mountain)人名；(英)芒廷
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>air</word>
+        <trans><![CDATA[
+     n. 空气，大气；天空；样子；曲调
+     vt. 使通风，晾干；夸耀
+     vi. 通风
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>light</word>
+        <trans><![CDATA[
+     n. 光；光线；灯；打火机；领悟；浅色；天窗
+     adj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的
+     vi. 点着；变亮；着火
+     vt. 照亮；点燃；着火
+     adv. 轻地；清楚地；轻便地
+     n. (Light)人名；(英)莱特
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>water</word>
+        <trans><![CDATA[
+     n. 水；海水；雨水；海域，大片的水
+     vt. 使湿；供以水；给…浇水
+     vi. 加水；流泪；流口水
+     n. (Water)人名；(英)沃特
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>fire</word>
+        <trans><![CDATA[
+     n. 火；火灾；炮火；炉火；热情；激情；磨难
+     vt. 点燃；解雇；开除；使发光；烧制；激动；放枪
+     vi. 着火；射击；开枪；激动；烧火
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>ice</word>
+        <trans><![CDATA[
+     n. 冰；冰淇淋；矜持；（俚）钻石
+     vt. 冰镇；结冰
+     vi. 结冰
+     adj. 冰的
+     n. (Ice)人名；(英)艾斯；(法)伊斯
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>smoke</word>
+        <trans><![CDATA[
+     n. 烟；抽烟；无常的事物
+     vi. 冒烟，吸烟；抽烟；弥漫
+     vt. 吸烟；抽
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>heat</word>
+        <trans><![CDATA[
+     n. 高温；压力；热度；热烈
+     vt. 使激动；把…加热
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>ground</word>
+        <trans><![CDATA[
+     n. 地面；土地；范围；战场;根据
+     vt. 使接触地面；打基础；使搁浅
+     vi. 着陆；搁浅
+     adj. 土地的；地面上的；磨碎的；磨过的
+     v. 研磨（grind的过去分词）；压迫
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>sky</word>
+        <trans><![CDATA[
+     n. 天空；顶点
+     vt. 把…投向空中；把…挂得过高
+     vi. 踢或击高空球；把桨叶翘得过高；飞涨
+     n. (Sky)人名；(英)斯凯
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>river</word>
+        <trans><![CDATA[
+     n. 河，江
+     n. (River)人名；(英)里弗
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>field</word>
+        <trans><![CDATA[
+     n. 领域；牧场；旷野；战场；运动场;字段
+     vi. 担任场外队员
+     adj. 扫描场；田赛的；野生的
+     vt. 把暴晒于场上；使上场
+     n. (Field)人名；(英、法、德、葡)菲尔德
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>forest</word>
+        <trans><![CDATA[
+     n. 森林，林区；（森林似的）一丛；皇家林地，御猎场
+     v. 植林于；被森林覆盖
+     n. (Forest) 福雷斯特（人名）
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>sea</word>
+        <trans><![CDATA[
+     n. 海；海洋；许多；大量
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>stone</word>
+        <trans><![CDATA[
+     n. 石头；结石；[宝] 宝石
+     adj. 石的，石制的
+     vt. 向扔石块；用石头铺
+     n. (Stone)人名；(捷)斯托内；(瑞典)斯托内；(英)斯通
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>star</word>
+        <trans><![CDATA[
+     n. 星，恒星；明星；星形物
+     vt. 用星号标于；由…主演，由…担任主角
+     vi. 担任主角
+     adj. 明星的，主角的；星形的
+     n. (Star)人名；(瑞典)斯塔尔；(德)施塔尔
+    ]]></trans>
+        <tags>自然类</tags>
+    </item>
+    <item>
+        <word>plant</word>
+        <trans><![CDATA[
+     n. 工厂，车间；植物；设备；庄稼
+     vt. 种植；培养；栽培；安置
+     vi. 种植
+     n. (Plant)人名；(英、西、意)普兰特；(法)普朗
+    ]]></trans>
+        <tags>植物类</tags>
+    </item>
+    <item>
+        <word>grass</word>
+        <trans><![CDATA[
+     n. 草；草地，草坪
+     vt. 放牧；使……长满草；使……吃草
+     vi. 长草
+     n. (Grass)人名；(法、德、俄、瑞典、英)格拉斯
+    ]]></trans>
+        <tags>植物类</tags>
+    </item>
+    <item>
+        <word>tree</word>
+        <trans><![CDATA[
+     n. 树；木料；树状物
+     vt. 把...赶上树
+     vi. 爬上树；逃上树
+     n. (Tree)人名；(英)特里
+    ]]></trans>
+        <tags>植物类</tags>
+    </item>
+    <item>
+        <word>crop</word>
+        <trans><![CDATA[
+     n. 产量；农作物；庄稼；平头
+     vt. 种植；收割；修剪；剪短
+     vi. 收获
+    ]]></trans>
+        <tags>植物类</tags>
+    </item>
+    <item>
+        <word>animal</word>
+        <trans><![CDATA[
+     n. 动物
+     动物的
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>bird</word>
+        <trans><![CDATA[
+     n. 鸟；家伙；羽毛球
+     vt. 向…喝倒彩；起哄
+     vi. 猎鸟；观察研究野鸟
+     n. (Bird)人名；(英、西)伯德
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>cat</word>
+        <trans><![CDATA[
+     n. 猫，猫科动物
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>dog</word>
+        <trans><![CDATA[
+     n. 狗；卑鄙的人；(俚)朋友
+     vt. 跟踪；尾随
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>horse</word>
+        <trans><![CDATA[
+     n. 马；骑兵；脚架；海洛因
+     vt. 使骑马；系马于；捉弄
+     vi. 骑马；作弄人
+     n. (Horse)人名；(瑞典)霍尔瑟
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>rabbit</word>
+        <trans><![CDATA[
+     n. 兔子，野兔
+     vt. 让…见鬼去吧
+     vi. 猎兔
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>elephant</word>
+        <trans><![CDATA[
+     n. 象；大号图画纸
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>bear</word>
+        <trans><![CDATA[
+     vt. 结果实，开花（正式）
+     vt. 忍受；承受；具有；支撑
+     n. 熊
+     n. (Bear)人名；(英)贝尔
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>tiger</word>
+        <trans><![CDATA[
+     n. 老虎；凶暴的人
+     n. (Tiger)人名；(英)泰格；(法)蒂热；(瑞典)蒂格
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>lion</word>
+        <trans><![CDATA[
+     n. 狮子；名人；勇猛的人；社交场合的名流
+     n. (Lion)人名；(西、葡)利昂；(德、法、意、捷、瑞典)利翁；(英)莱昂
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>bull</word>
+        <trans><![CDATA[
+     n. 公牛；看好股市者；粗壮如牛的人；胡说八道；印玺
+     adj. 大型的；公牛似的；雄性的
+     vt. 企图抬高证券价格；吓唬；强力实现
+     vi. 价格上涨；走运；猛推；吹牛
+     n. (Bull)人名；(英、葡、瑞典、芬、挪、德)布尔
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>cow</word>
+        <trans><![CDATA[
+     n. 奶牛，母牛；母兽
+     vt. 威胁，恐吓
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>pig</word>
+        <trans><![CDATA[
+     n. 猪；猪肉
+     vi. 生小猪；像猪一样过活
+     n. 警察（俚语，带有攻击性）
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>chicken</word>
+        <trans><![CDATA[
+     n. 鸡肉；小鸡；胆小鬼，懦夫
+     adj. 鸡肉的；胆怯的；幼小的
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>fish</word>
+        <trans><![CDATA[
+     n. 鱼；鱼肉；双鱼座；接合板；（非正式）怪人；（非正式）鱼雷
+     v. 钓鱼，捕鱼；搜寻；打听消息；打捞；用接合板修补
+     n. (Fish) （美、爱）菲施（人名）
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>sheep</word>
+        <trans><![CDATA[
+     n. 羊，绵羊；胆小鬼
+     
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>monkey</word>
+        <trans><![CDATA[
+     n. 猴子；顽童
+     vi. 胡闹；捣蛋
+     vt. 嘲弄
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>snake</word>
+        <trans><![CDATA[
+     n. 蛇；阴险的人
+     vi. 迂回前进
+     vt. 拉（木材等）；迂回前进
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>reptile</word>
+        <trans><![CDATA[
+     n. 爬行动物；（非正式）卑鄙的人
+     adj. 爬行动物的；卑鄙的
+    ]]></trans>
+        <tags>动物类</tags>
+    </item>
+    <item>
+        <word>insect</word>
+        <trans><![CDATA[
+     n. 昆虫；卑鄙的人
+    ]]></trans>
+        <tags>昆虫类</tags>
+    </item>
+    <item>
+        <word>bee</word>
+        <trans><![CDATA[
+     n. 蜜蜂，蜂；勤劳的人
+     n. (Bee)人名；(赤几)贝埃；(东南亚国家华语)美；(英)比(女子教名Beatrix和Beatrice的昵称)
+    ]]></trans>
+        <tags>昆虫类</tags>
+    </item>
+    <item>
+        <word>butterfly</word>
+        <trans><![CDATA[
+     n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人
+    ]]></trans>
+        <tags>昆虫类</tags>
+    </item>
+    <item>
+        <word>spider</word>
+        <trans><![CDATA[
+     n. 蜘蛛；设圈套者；三脚架
+    ]]></trans>
+        <tags>昆虫类</tags>
+    </item>
+    <item>
+        <word>bacteria</word>
+        <trans><![CDATA[
+     n. [微] 细菌
+    ]]></trans>
+        <tags>其它生物</tags>
+    </item>
+    <item>
+        <word>place</word>
+        <trans><![CDATA[
+     n. 地方；住所；座位
+     vt. 放置；任命；寄予
+     vi. 名列前茅；取得名次
+     n. (Place)人名；(罗)普拉切；(法)普拉斯；(英)普莱斯
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>hospital</word>
+        <trans><![CDATA[
+     n. 医院
+     n. (Hospital)人名；(英)霍斯皮特尔
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>restaurant</word>
+        <trans><![CDATA[
+     n. 餐馆；[经] 饭店
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>hotel</word>
+        <trans><![CDATA[
+     n. 旅馆；酒吧；餐馆；（无线电通讯中）字母H的代码
+     n. (Hotel) （美）奥泰尔（人名）
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>university</word>
+        <trans><![CDATA[
+     n. 大学；综合性大学；大学校舍
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>factory</word>
+        <trans><![CDATA[
+     n. 工厂；制造厂；代理店
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>jail</word>
+        <trans><![CDATA[
+     n. 监狱；监牢；拘留所
+     vt. 监禁；下狱
+     n. (Jail)人名；(英)杰尔
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>zoo</word>
+        <trans><![CDATA[
+     n. 动物园
+     n. (Zoo)人名；(朝)朱；(阿拉伯)祖
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>park</word>
+        <trans><![CDATA[
+     n. 公园；[交] 停车场
+     vt. 停放；放置；寄存
+     vi. 停放车辆
+     n. (Park)人名；(英、芬、瑞典)帕克
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>school</word>
+        <trans><![CDATA[
+     n. 学校；学院；学派；鱼群
+     vt. 教育
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>store</word>
+        <trans><![CDATA[
+     n. 商店；储备，贮藏；仓库
+     vt. 贮藏，储存
+     n. (Store)人名；(德)施托雷
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>club</word>
+        <trans><![CDATA[
+     n. 俱乐部，社团；夜总会；棍棒；（扑克牌中的）梅花
+     vt. 用棍棒打；募集
+     vi. 集资；组成俱乐部
+     adj. 俱乐部的
+     n. (Club)人名；(英)克拉布
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>bar</word>
+        <trans><![CDATA[
+     n. 条，棒；酒吧；障碍；法庭
+     vt. 禁止；阻拦
+     prep. 除……外
+     n. (Bar)人名；(阿拉伯、德、法、俄、罗、捷、波、葡、以)巴尔
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>court</word>
+        <trans><![CDATA[
+     n. 法院；球场；朝廷；奉承
+     vt. 招致（失败、危险等）；向…献殷勤；设法获得
+     vi. 求爱
+     n. (Court)人名；(英)考特；(法)库尔
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>market</word>
+        <trans><![CDATA[
+     n. 市场；行情；股票市场；市面；集市；销路；商店
+     vt. 在市场上出售
+     vi. 做买卖
+     n. (Market)人名；(塞)马尔凯特
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>town</word>
+        <trans><![CDATA[
+     n. 城镇，市镇；市内商业区
+     n. (Town)人名；(英)汤
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>village</word>
+        <trans><![CDATA[
+     n. 村庄；村民；（动物的）群落
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>city</word>
+        <trans><![CDATA[
+     n. 城市，都市
+     adj. 城市的；都会的
+    ]]></trans>
+        <tags>地点类</tags>
+    </item>
+    <item>
+        <word>organization</word>
+        <trans><![CDATA[
+     n. 组织；机构；体制；团体
+    ]]></trans>
+        <tags>机构类</tags>
+    </item>
+    <item>
+        <word>company</word>
+        <trans><![CDATA[
+     n. 公司；陪伴，同伴；连队
+     vi. 交往
+     vt. 陪伴
+     
+     n. (Company)人名；(西)孔帕尼；(英)康帕尼
+    ]]></trans>
+        <tags>机构类</tags>
+    </item>
+    <item>
+        <word>charity</word>
+        <trans><![CDATA[
+     n. 慈善；施舍；慈善团体；宽容；施舍物
+    ]]></trans>
+        <tags>机构类</tags>
+    </item>
+    <item>
+        <word>sound</word>
+        <trans><![CDATA[
+     n. 声音；噪音；音响；印象；海峡；听力范围；医用探子；无线电广播；音响效果；独特音色
+     v. （使）发声；听起来；鸣警报；听（诊）；回响；探测；试探；宣告；（医）用探子检查；（尤指鲸鱼）潜入深海
+     adj. 合理的；无损的；有能力的；充足的；彻底的；熟睡的；资金充实的；（非正式）非常棒的；严厉的；健全的，健康的
+     adv. 彻底地，酣畅地
+    ]]></trans>
+        <tags>声音类</tags>
+    </item>
+    <item>
+        <word>voice</word>
+        <trans><![CDATA[
+     n. 声音；嗓音；发言权；愿望
+     vt. 表达；吐露
+    ]]></trans>
+        <tags>声音类</tags>
+    </item>
+    <item>
+        <word>noise</word>
+        <trans><![CDATA[
+     n. [环境] 噪音；响声；杂音
+     vt. 谣传
+     vi. 发出声音；大声议论
+     n. (Noise)人名；(英)诺伊斯
+    ]]></trans>
+        <tags>声音类</tags>
+    </item>
+    <item>
+        <word>music</word>
+        <trans><![CDATA[
+     n. 音乐，乐曲
+    ]]></trans>
+        <tags>声音类</tags>
+    </item>
+    <item>
+        <word>food</word>
+        <trans><![CDATA[
+     n. 食物；养料
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>egg</word>
+        <trans><![CDATA[
+     n. 蛋；卵子；家伙；鸡蛋
+     vt. 煽动；怂恿
+     n. (Egg)人名；(法、英)埃格
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>meat</word>
+        <trans><![CDATA[
+     n. 肉，肉类（食用）
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>steak</word>
+        <trans><![CDATA[
+     n. 牛排；肉排；鱼排
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>bread</word>
+        <trans><![CDATA[
+     n. 面包；生计
+     vt. 在…上洒面包屑
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>cake</word>
+        <trans><![CDATA[
+     n. 蛋糕；块状物；利益总额
+     vt. 使结块
+     vi. 结成块状
+     n. (Cake)人名；(英)凯克；(塞)察凯
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>dessert</word>
+        <trans><![CDATA[
+     n. 餐后甜点；甜点心
+     n. (Dessert)人名；(法)德塞尔
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>soup</word>
+        <trans><![CDATA[
+     n. 汤，羹；马力
+     vt. 加速；增加马力
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>sandwich</word>
+        <trans><![CDATA[
+     n. 三明治（状物）；夹心面包片；（奶油）夹心蛋糕；教学与实习交替培训课程
+     v. 夹入（或挤进）……中间；粘合；把..……做成三明治
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>noodle</word>
+        <trans><![CDATA[
+     n. 面条；笨蛋
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>pie</word>
+        <trans><![CDATA[
+     n. 馅饼；饼图；爱说话的人
+     vt. 使杂乱
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>chocolate</word>
+        <trans><![CDATA[
+     n. 巧克力，巧克力糖；巧克力色
+     adj. 巧克力色的；巧克力口味的
+     n. (Chocolate)人名；(葡)绍科拉特
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>sauce</word>
+        <trans><![CDATA[
+     n. 酱油；沙司；调味汁
+     vt. 使增加趣味；给…调味
+     n. (Sauce)人名；(西)绍塞；(法)索斯
+    ]]></trans>
+        <tags>食品类</tags>
+    </item>
+    <item>
+        <word>meal</word>
+        <trans><![CDATA[
+     n. 一餐，一顿饭；膳食
+     vi. 进餐
+    ]]></trans>
+        <tags>餐饮类</tags>
+    </item>
+    <item>
+        <word>breakfast</word>
+        <trans><![CDATA[
+     n. 早餐；早饭
+     vi. 吃早餐
+     vt. 为…供应早餐
+    ]]></trans>
+        <tags>餐饮类</tags>
+    </item>
+    <item>
+        <word>lunch</word>
+        <trans><![CDATA[
+     n. 午餐
+     vt. 吃午餐；供给午餐
+     vi. 吃午餐；供给午餐
+    ]]></trans>
+        <tags>餐饮类</tags>
+    </item>
+    <item>
+        <word>dinner</word>
+        <trans><![CDATA[
+     n. 晚餐，晚宴；宴会；正餐
+     n. (Dinner)人名；(法)迪内
+    ]]></trans>
+        <tags>餐饮类</tags>
+    </item>
+    <item>
+        <word>vegetable</word>
+        <trans><![CDATA[
+     n. 蔬菜；植物；植物人
+     adj. 蔬菜的；植物的
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>potato</word>
+        <trans><![CDATA[
+     n. [作物] 土豆，[作物] 马铃薯
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>tomato</word>
+        <trans><![CDATA[
+     n. 番茄，西红柿
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>carrot</word>
+        <trans><![CDATA[
+     n. 胡萝卜
+     诱饵
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>lettuce</word>
+        <trans><![CDATA[
+     n. [园艺] 生菜；莴苣；（美）纸币
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>bean</word>
+        <trans><![CDATA[
+     n. 豆；嘴峰；毫无价值的东西
+     vt. 击…的头部
+     n. (Bean)人名；(英)比恩
+    ]]></trans>
+        <tags>蔬菜类</tags>
+    </item>
+    <item>
+        <word>fruit</word>
+        <trans><![CDATA[
+     n. 水果；产物
+     vi. 结果实
+     vt. 使……结果实
+     n. (Fruit)人名；(法)弗吕；(英)弗鲁特
+    ]]></trans>
+        <tags>水果类</tags>
+    </item>
+    <item>
+        <word>apple</word>
+        <trans><![CDATA[
+     n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。
+    ]]></trans>
+        <tags>水果类</tags>
+    </item>
+    <item>
+        <word>orange</word>
+        <trans><![CDATA[
+     n. 橙，柑橘；橙汁，橘汁饮料；橙树，橘树；橙色，橘黄色；橙黄色蝴蝶
+     adj. 橙红色的，橘黄色的；奥兰治党或社团的
+     n. (Orange) （美、法、俄、英）奥林奇（人名）
+    ]]></trans>
+        <tags>水果类</tags>
+    </item>
+    <item>
+        <word>banana</word>
+        <trans><![CDATA[
+     n. 香蕉；喜剧演员；大鹰钩鼻
+     n. (Banana)人名；(葡、津)巴纳纳
+    ]]></trans>
+        <tags>水果类</tags>
+    </item>
+    <item>
+        <word>ingredient</word>
+        <trans><![CDATA[
+     n. 原料；要素；组成部分
+     adj. 构成组成部分的
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>oil</word>
+        <trans><![CDATA[
+     n. 油；石油；油画颜料
+     vt. 加油；涂油；使融化
+     vi. 融化；加燃油
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>sugar</word>
+        <trans><![CDATA[
+     n. 糖；食糖；甜言蜜语
+     vt. 加糖于；粉饰
+     vi. 形成糖
+     n. (Sugar)人名；(英)休格
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>salt</word>
+        <trans><![CDATA[
+     n. 盐；风趣，刺激性
+     adj. 咸水的；含盐的，咸味的；盐腌的；猥亵的
+     vt. 用盐腌；给…加盐；将盐撒在道路上使冰或雪融化
+     n. (Salt)人名；(西)萨尔特；(英)索尔特
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>butter</word>
+        <trans><![CDATA[
+     n. 黄油，奶油；像黄油的食品；奉承话
+     v. 涂黄油于；讨好
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>cream</word>
+        <trans><![CDATA[
+     n. 奶油，乳脂；精华；面霜；乳酪
+    ]]></trans>
+        <tags>食材类</tags>
+    </item>
+    <item>
+        <word>nutrient</word>
+        <trans><![CDATA[
+     n. 营养物；滋养物
+     adj. 营养的；滋养的
+    ]]></trans>
+        <tags>营养类</tags>
+    </item>
+    <item>
+        <word>mineral</word>
+        <trans><![CDATA[
+     n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
+     adj. 矿物的；矿质的
+    ]]></trans>
+        <tags>营养类</tags>
+    </item>
+    <item>
+        <word>vitamin</word>
+        <trans><![CDATA[
+     n. [生化] 维生素；[生化] 维他命
+    ]]></trans>
+        <tags>营养类</tags>
+    </item>
+    <item>
+        <word>protein</word>
+        <trans><![CDATA[
+     n. 蛋白质；朊
+     adj. 蛋白质的
+    ]]></trans>
+        <tags>营养类</tags>
+    </item>
+    <item>
+        <word>drink</word>
+        <trans><![CDATA[
+     v. 喝，饮；喝酒；把……喝完，干杯；（比喻）陶醉于；（非正式）吸收（水分）；（酒）喝起来有某种滋味；举杯庆贺
+     n. 酒，饮料；. 一杯（饮料或酒） ；饮，喝酒；贪杯，酗酒
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>coffee</word>
+        <trans><![CDATA[
+     n. 咖啡；咖啡豆；咖啡色
+     n. (Coffee)人名；(英)科菲
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>milk</word>
+        <trans><![CDATA[
+     n. 牛奶；乳状物
+     vt. 榨取；挤…的奶
+     vi. 挤奶
+     n. (Milk)人名；(英)米尔克
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>tea</word>
+        <trans><![CDATA[
+     n. 茶叶；茶树；茶点
+     vt. 给…沏茶
+     vi. 喝茶；进茶点
+     n. (Tea)人名；(柬)迪
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>juice</word>
+        <trans><![CDATA[
+     n. （水果）汁，液；果汁
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>beer</word>
+        <trans><![CDATA[
+     n. 啤酒
+     vi. 喝啤酒
+     n. (Beer)人名；(法、德、俄、罗、捷、瑞典)贝尔；(英、西、南非)[纺] 比尔
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>wine</word>
+        <trans><![CDATA[
+     n. 酒，葡萄酒；紫红色
+     vi. 喝酒
+     vt. 请…喝酒
+     n. (Wine)人名；(英)瓦恩
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>alcohol</word>
+        <trans><![CDATA[
+     n. 酒精，乙醇
+    ]]></trans>
+        <tags>饮料类</tags>
+    </item>
+    <item>
+        <word>disease</word>
+        <trans><![CDATA[
+     n. 病，[医] 疾病；弊病
+     vt. 传染；使…有病
+    ]]></trans>
+        <tags>疾病类</tags>
+    </item>
+    <item>
+        <word>fever</word>
+        <trans><![CDATA[
+     n. 发烧，发热；狂热
+     vt. 使发烧；使狂热；使患热病
+     vi. 发烧；狂热；患热病
+    ]]></trans>
+        <tags>疾病类</tags>
+    </item>
+    <item>
+        <word>flu</word>
+        <trans><![CDATA[
+     n. 流感
+     n. (Flu)人名；(法)弗吕
+    ]]></trans>
+        <tags>疾病类</tags>
+    </item>
+    <item>
+        <word>cancer</word>
+        <trans><![CDATA[
+     n. 癌症；恶性肿瘤
+    ]]></trans>
+        <tags>疾病类</tags>
+    </item>
+    <item>
+        <word>house</word>
+        <trans><![CDATA[
+     n. 住宅；家庭；机构；议会；某种用途的建筑物
+     vt. 覆盖；给…房子住；把…储藏在房内
+     vi. 住
+     n. (House)人名；(英)豪斯
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>office</word>
+        <trans><![CDATA[
+     n. 办公室；政府机关；官职；营业处
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>room</word>
+        <trans><![CDATA[
+     n. 房间；空间；余地；机会；房间里所有的人
+     vt. 为…提供住处；租房，合住；投宿，住宿；留…住宿
+     vi. 居住；住宿
+     n. （英）鲁姆（人名）；（俄）罗姆（人名）
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>floor</word>
+        <trans><![CDATA[
+     n. 地板，地面；楼层；基底；议员席
+     vt. 铺地板；打倒，击倒；（被困难）难倒
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>wall</word>
+        <trans><![CDATA[
+     n. 墙壁，围墙；似墙之物
+     vt. 用墙围住，围以墙
+     adj. 墙壁的
+     n. (Wall)人名；(英)沃尔；(德、芬、捷、瑞典)瓦尔
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>window</word>
+        <trans><![CDATA[
+     n. 窗；窗口；窗户
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>door</word>
+        <trans><![CDATA[
+     n. 门；家，户；门口；通道
+     n. (Door)人名；(英)多尔
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>roof</word>
+        <trans><![CDATA[
+     n. 屋顶；最高处，顶部；最高限度
+     vt. 给…盖屋顶，覆盖
+     n. (Roof)人名；(英)鲁夫
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>kitchen</word>
+        <trans><![CDATA[
+     n. 厨房；炊具；炊事人员
+     n. (Kitchen)人名；(英)基钦
+    ]]></trans>
+        <tags>房屋类</tags>
+    </item>
+    <item>
+        <word>furniture</word>
+        <trans><![CDATA[
+     n. 家具；设备；储藏物
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>bed</word>
+        <trans><![CDATA[
+     n. 床；基础；河底， 海底
+     vt. 使睡觉；安置，嵌入；栽种
+     vi. 上床；分层
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>chair</word>
+        <trans><![CDATA[
+     n. 椅子；讲座；（会议的）主席位；大学教授的职位
+     vt. 担任（会议的）主席；使…入座；使就任要职
+     n. (Chair)人名；(法)谢尔
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>desk</word>
+        <trans><![CDATA[
+     n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架
+     adj. 书桌的；桌上用的；伏案做的
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>table</word>
+        <trans><![CDATA[
+     n. 桌子；表格；平地层
+     vt. 制表；搁置；嵌合
+     adj. 桌子的
+     n. (Table)人名；(罗)塔布莱
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>seat</word>
+        <trans><![CDATA[
+     n. 座位；所在地；职位
+     vt. 使…坐下；可容纳…的；使就职
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>couch</word>
+        <trans><![CDATA[
+     n. 睡椅，长沙发；床；卧榻
+     vi. 蹲伏，埋伏；躺着
+     vt. 使躺下；表达；弯下
+     n. (Couch)人名；(英)库奇
+    ]]></trans>
+        <tags>家具类</tags>
+    </item>
+    <item>
+        <word>clothes</word>
+        <trans><![CDATA[
+     n. 衣服
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>shirt</word>
+        <trans><![CDATA[
+     n. 衬衫；汗衫，内衣
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>shoes</word>
+        <trans><![CDATA[
+     n. 鞋子（shoe的复数）
+     v. 穿鞋（shoe的第三人称单数）
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>cap</word>
+        <trans><![CDATA[
+     n. 盖；帽子
+     vi. 脱帽致意
+     vt. 覆盖；胜过；给…戴帽；加盖于
+     n. (Cap)人名；(法、德、罗)卡普；(塞、捷)察普
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>hat</word>
+        <trans><![CDATA[
+     n. 帽子
+     vt. 给……戴上帽子
+     vi. 供应帽子；制造帽子
+     n. (Hat)人名；(中)核(广东话·威妥玛)
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>coat</word>
+        <trans><![CDATA[
+     n. 外套
+     vt. 覆盖…的表面
+     n. (Coat)人名；(法)科阿
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>dress</word>
+        <trans><![CDATA[
+     n. 连衣裙；（特定种类的）衣服
+     v. （给……）穿衣；穿正式服装；为……提供服装；清理包扎（伤口）；装饰；加工，处理（食材、木材等）；使排列整齐’；设计（发型）
+     n. (Dress) （美、巴）德雷斯（人名）
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>pants</word>
+        <trans><![CDATA[
+     n. 裤子
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>uniform</word>
+        <trans><![CDATA[
+     adj. 统一的；一致的；相同的；均衡的；始终如一的
+     n. 制服
+     vt. 使穿制服；使成一样
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>suits</word>
+        <trans><![CDATA[
+     n. 套装；西服；讼案（suit的复数）
+     v. 使适合；适宜于；供给…衣服（suit的三单形式）
+     n. (Suits)人名；(英)休茨；(俄)舒伊茨；(瑞典)苏伊茨
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>underwear</word>
+        <trans><![CDATA[
+     n. 内衣物
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>pocket</word>
+        <trans><![CDATA[
+     n. 口袋；钱；容器
+     vt. 隐藏；忍受；将…放入衣袋
+     vi. 形成袋或囊
+     adj. 小型的，袖珍的；金钱上的
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>jeans</word>
+        <trans><![CDATA[
+     n. 牛仔裤；工装裤
+     n. (Jeans)人名；(英、意)琼斯
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>button</word>
+        <trans><![CDATA[
+     n. 按钮；纽扣
+     vt. 扣住；扣紧；在…上装纽扣
+     vi. 扣住；装有纽扣；扣上纽扣
+     n. (Button)人名；(英)巴顿
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>zip</word>
+        <trans><![CDATA[
+     n. 拉链；活力，精力；尖啸声，撕裂声；一种程序压缩的档案文件格式
+     n. (Zip)兹普（人名）
+     vi. 拉开或拉上；以尖啸声行进
+     vt. 给...以速度；拉上或拉开拉链
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>sock</word>
+        <trans><![CDATA[
+     n. 短袜；一击
+     vt. 重击；给……穿袜
+     adv. 正着地；不偏不倚地
+     adj. 非常成功的
+     n. (Sock)人名；(德)佐克
+    ]]></trans>
+        <tags>服装类</tags>
+    </item>
+    <item>
+        <word>jewelry</word>
+        <trans><![CDATA[
+     n. 珠宝；珠宝类
+    ]]></trans>
+        <tags>首饰类</tags>
+    </item>
+    <item>
+        <word>diamond</word>
+        <trans><![CDATA[
+     n. 钻石，金刚石；菱形；方块牌
+     adj. 菱形的；金刚钻的
+     n. (Diamond)人名；(英、意、葡)戴蒙德；(法)迪亚蒙
+    ]]></trans>
+        <tags>首饰类</tags>
+    </item>
+    <item>
+        <word>ring</word>
+        <trans><![CDATA[
+     vi. 按铃；敲钟；回响；成环形
+     n. 戒指；铃声，钟声；拳击场；环形物
+     vt. 按铃；包围；敲钟；套住
+     n. (Ring)人名；(英、西、德、匈、瑞典、芬)林
+    ]]></trans>
+        <tags>首饰类</tags>
+    </item>
+    <item>
+        <word>cosmetics</word>
+        <trans><![CDATA[
+     n. [化工] 化妆品（cosmetic的复数）；装饰品
+     v. 用化妆品打扮（cosmetic的三单形式）
+    ]]></trans>
+        <tags>化妆品</tags>
+    </item>
+    <item>
+        <word>perfume</word>
+        <trans><![CDATA[
+     n. 香水；香味
+     vt. 洒香水于…；使…带香味
+     vi. 散发香气
+    ]]></trans>
+        <tags>化妆品</tags>
+    </item>
+    <item>
+        <word>lipstick</word>
+        <trans><![CDATA[
+     n. 口红；唇膏
+     vt. 涂口红
+     vi. 涂口红
+    ]]></trans>
+        <tags>化妆品</tags>
+    </item>
+    <item>
+        <word>powder</word>
+        <trans><![CDATA[
+     n. 粉；粉末；[化工][军] 火药；尘土
+     vt. 使成粉末；撒粉；搽粉于
+     vi. 搽粉；变成粉末
+    ]]></trans>
+        <tags>化妆品</tags>
+    </item>
+    <item>
+        <word>transport</word>
+        <trans><![CDATA[
+     n. 运输；运输机；狂喜；流放犯
+     vt. 运输；流放；使狂喜
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>traffic</word>
+        <trans><![CDATA[
+     n. 交通；运输；贸易；[通信] 通信量
+     vt. 用…作交换；在…通行
+     vi. 交易，买卖
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>bicycle</word>
+        <trans><![CDATA[
+     n. 自行车
+     vi. 骑脚踏车
+     vt. 骑自行车运送
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>ship</word>
+        <trans><![CDATA[
+     vt. 运送，乘船；以船运送
+     vi. 上船；乘船旅行；当船员
+     n. 船；舰；太空船
+     n. (Ship)人名；(中)摄(广东话·威妥玛)
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>boat</word>
+        <trans><![CDATA[
+     n. 小船；轮船
+     vi. 划船
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>plane</word>
+        <trans><![CDATA[
+     n. 飞机；平面；程度，水平
+     vi. 刨；乘飞机旅行；翱翔
+     vt. 刨平；用刨子刨；掠过水面
+     adj. 平的；平面的
+     n. (Plane)人名；(塞、瑞典、法)普拉内
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>train</word>
+        <trans><![CDATA[
+     n. 火车；行列；长队；裙裾
+     v. 培养；训练；瞄准
+     n. (Train)人名；(英)特雷恩；(法)特兰；(意)特拉因
+    ]]></trans>
+        <tags>交通类</tags>
+    </item>
+    <item>
+        <word>vehicle</word>
+        <trans><![CDATA[
+     n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>motorcycle</word>
+        <trans><![CDATA[
+     n. 摩托车；机动车
+     vi. 骑摩托车
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>bus</word>
+        <trans><![CDATA[
+     n. 公共汽车
+     乘公共汽车
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>car</word>
+        <trans><![CDATA[
+     n. 汽车；车厢
+     n. (Car)人名；(土)贾尔；(法、西)卡尔；(塞)察尔
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>truck</word>
+        <trans><![CDATA[
+     n. 卡车；交易；手推车
+     vi. 驾驶卡车；以物易物
+     vt. 交易；以卡车运输
+     adj. （美）运货汽车的
+     n. (Truck)人名；(德)特鲁克
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>brake</word>
+        <trans><![CDATA[
+     n. 刹车；阻碍（物）；敞篷四轮马车；纤维捣碎机；灌木丛；欧洲蕨
+     v. 刹车；阻碍
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>engine</word>
+        <trans><![CDATA[
+     n. 引擎，发动机；机车，火车头；工具
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>gear</word>
+        <trans><![CDATA[
+     n. 齿轮；装置，工具；传动装置
+     vi. 适合；搭上齿轮；开始工作
+     vt. 开动；搭上齿轮；使……适合；使……准备好
+     adj. 好极了
+     n. (Gear)人名；(英)吉尔
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>tire</word>
+        <trans><![CDATA[
+     vi. 疲劳；厌倦
+     vt. 使…疲倦；使…厌烦
+     n. 轮胎；头饰
+     n. (Tire)人名；(土)蒂雷
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>wheel</word>
+        <trans><![CDATA[
+     n. 车轮；方向盘；转动
+     vt. 转动；使变换方向；给…装轮子
+     vi. 旋转；突然转变方向；盘旋飞行
+    ]]></trans>
+        <tags>车辆类</tags>
+    </item>
+    <item>
+        <word>road</word>
+        <trans><![CDATA[
+     n. 公路，马路；道路；手段
+     vt. （狗）沿臭迹追逐（猎物）
+     adj. （美）巡回的
+     n. (Road)人名；(英)罗德
+    ]]></trans>
+        <tags>路桥类</tags>
+    </item>
+    <item>
+        <word>street</word>
+        <trans><![CDATA[
+     n. 街道
+     adj. 街道的
+     n. (Street)人名；(英、葡)斯特里特；(德)施特雷特
+    ]]></trans>
+        <tags>路桥类</tags>
+    </item>
+    <item>
+        <word>bridge</word>
+        <trans><![CDATA[
+     n. 桥；桥牌；桥接器；船桥
+     vt. 架桥；渡过
+     n. (Bridge)人名；(英)布里奇
+    ]]></trans>
+        <tags>路桥类</tags>
+    </item>
+    <item>
+        <word>station</word>
+        <trans><![CDATA[
+     n. 车站；驻地；地位；身份
+     vt. 配置；安置；驻扎
+    ]]></trans>
+        <tags>路桥类</tags>
+    </item>
+    <item>
+        <word>device</word>
+        <trans><![CDATA[
+     n. 装置；策略；图案；设备；终端
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>lock</word>
+        <trans><![CDATA[
+     vt. 锁，锁上；隐藏
+     vi. 锁；锁住；卡住
+     n. 锁；水闸；刹车
+     n. (Lock)人名；(英、丹、德、瑞典)洛克
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>key</word>
+        <trans><![CDATA[
+     n. 钥匙；关键，密钥；（键盘乐器或电脑键盘的）键；调，声调，色调；答案；图例； 扳手；销子，楔，栓；翼果；板条间首层灰泥；（篮球）罚球区；低岛，礁
+     v. 键入，用键盘输入；用别针等固定；使与……符合或关联；使……与……共处，相安无事；用钥匙将汽车表面划坏；将（表面）弄粗糙；给（广告）加识别码；成为获得……的关键
+     adj. 关键的，主要的
+     n. (Key)（美）基（人名）
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>bell</word>
+        <trans><![CDATA[
+     n. 铃，钟；钟声，铃声；钟状物
+     vt. 装钟于，系铃于
+     vi. 鸣钟；成钟状鼓起
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>scale</word>
+        <trans><![CDATA[
+     n. 规模；比例；鳞；刻度；天平；数值范围
+     vi. 衡量；攀登；剥落；生水垢
+     vt. 测量；攀登；刮鳞；依比例决定
+     n. (Scale)人名；(意)斯卡莱
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>tap</word>
+        <trans><![CDATA[
+     vt. 轻敲；轻打；装上嘴子
+     vi. 轻拍；轻击；轻叩
+     n. 水龙头；轻打
+     n. (Tap)人名；(柬)塔；(朝)塔
+     vt. 采用，利用
+    ]]></trans>
+        <tags>装置类</tags>
+    </item>
+    <item>
+        <word>equipment</word>
+        <trans><![CDATA[
+     n. 设备，装备；器材
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>shower</word>
+        <trans><![CDATA[
+     n. 淋浴；（倾泻般出现的）一阵，一大批；阵雨
+     vt. 大量地给予；把……弄湿
+     vi. 淋浴；下阵雨
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>radio</word>
+        <trans><![CDATA[
+     n. 收音机；无线电广播设备
+     vi. 用无线电进行通信
+     vt. 用无线电发送
+     n. (Radio)人名；(西)拉迪奥
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>telephone</word>
+        <trans><![CDATA[
+     n. （美）电话；电话机；电话耳机
+     vi. 打电话
+     vt. 打电话给…
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>camera</word>
+        <trans><![CDATA[
+     n. 照相机；摄影机
+     n. (Camera)人名；(英、意、西)卡梅拉
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>computer</word>
+        <trans><![CDATA[
+     n. 计算机；电脑；电子计算机
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>TV</word>
+        <trans><![CDATA[
+     abbr. 电视（television）
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>fridge</word>
+        <trans><![CDATA[
+     n. 电冰箱
+     n. (Fridge)人名；(英)弗里奇
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>video</word>
+        <trans><![CDATA[
+     n. [电子] 视频；录像，录像机；电视
+     adj. 视频的；录像的；电视的
+     v. 录制
+    ]]></trans>
+        <tags>设备类</tags>
+    </item>
+    <item>
+        <word>container</word>
+        <trans><![CDATA[
+     n. 集装箱；容器
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>box</word>
+        <trans><![CDATA[
+     n. 箱，盒子；包厢；一拳
+     vi. 拳击
+     vt. 拳击；装…入盒中；打耳光
+     n. (Box)人名；(英、法、西)博克斯
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>cup</word>
+        <trans><![CDATA[
+     n. 杯子；奖杯；酒杯
+     vt. 使成杯状；为…拔火罐
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>dish</word>
+        <trans><![CDATA[
+     n. 盘；餐具；一盘食物；外貌有吸引力的人
+     vt. 盛于碟盘中；分发；使某人的希望破灭；说（某人）的闲话
+     vi. 成碟状；闲谈
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>plate</word>
+        <trans><![CDATA[
+     n. 碟；金属板；金属牌；感光底片
+     vt. 电镀；给…装甲
+     n. (Plate)人名；(英、德、俄、西、意、瑞典)普拉特
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>bowl</word>
+        <trans><![CDATA[
+     n. 碗；木球；大酒杯
+     vi. 玩保龄球；滑动；平稳快速移动
+     vt. 投球；旋转；平稳快速移动
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>basket</word>
+        <trans><![CDATA[
+     n. 篮子；（篮球比赛的）得分；一篮之量；篮筐
+     vt. 装入篮
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>tub</word>
+        <trans><![CDATA[
+     n. 浴盆；桶
+     vt. 把…装入桶；为…洗盆浴
+     vi. 洗盆浴；（衣服等）被放在桶里洗
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>sink</word>
+        <trans><![CDATA[
+     vi. 下沉；消沉；渗透
+     vt. 使下沉；挖掘；使低落
+     n. 水槽；洗涤槽；污水坑
+     n. (Sink)人名；(英、瑞典)辛克
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>pot</word>
+        <trans><![CDATA[
+     n. 壶；盆；罐
+     vt. 把…装罐；射击；节略
+     vi. 随手射击
+     n. (Pot)人名；(柬)布特；(捷)波特；(法)波
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>pan</word>
+        <trans><![CDATA[
+     n. 平底锅；盘状的器皿；淘盘子，金盘，秤盘
+     vt. 淘金；在浅锅中烹调（食物）；[非正式用语]严厉的批评
+     vi. 淘金；在淘洗中收获金子
+    ]]></trans>
+        <tags>容器类</tags>
+    </item>
+    <item>
+        <word>material</word>
+        <trans><![CDATA[
+     adj. 重要的；物质的，实质性的；肉体的
+     n. 材料，原料；物资；布料
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>cloth</word>
+        <trans><![CDATA[
+     n. 布；织物；桌布
+     adj. 布制的
+     n. (Cloth)人名；(德)克洛特
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>paper</word>
+        <trans><![CDATA[
+     n. 纸；论文；文件；报纸
+     adj. 纸做的
+     vt. 用纸糊；用纸包装
+     vi. 贴糊墙纸；发交通违章传票
+     n. (Paper)人名；(俄)帕佩尔
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>glass</word>
+        <trans><![CDATA[
+     n. 玻璃；玻璃制品；镜子
+     vt. 反映；给某物加玻璃
+     vi. 成玻璃状
+     n. (Glass)人名；(英、法、德、意)格拉斯
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>plastic</word>
+        <trans><![CDATA[
+     adj. 塑料的；（外科）造型的；可塑的
+     n. 塑料制品；整形；可塑体
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>gold</word>
+        <trans><![CDATA[
+     n. 金，黄金；金色；金币
+     adj. 金的，金制的；金色的
+     n. (Gold)人名；(英、法、德、西、罗、捷、瑞典)戈尔德
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>paint</word>
+        <trans><![CDATA[
+     vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等
+     vi. 油漆；描绘；绘画；化妆
+     n. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰
+     n. 潘（人名）
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>chemical</word>
+        <trans><![CDATA[
+     n. 化学制品，化学药品
+     adj. 化学的
+    ]]></trans>
+        <tags>材料类</tags>
+    </item>
+    <item>
+        <word>toy</word>
+        <trans><![CDATA[
+     n. 玩具；小装饰品；不值钱的东西
+     vi. 玩弄；调情；随随便便地对待
+     adj. 作为玩具的；玩物似的
+     n. (Toy)人名；(英、土)托伊；(法)图瓦
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>brush</word>
+        <trans><![CDATA[
+     n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴
+     vt. 刷；画；
+     vi. 刷；擦过；掠过；（经过时）轻触
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>mirror</word>
+        <trans><![CDATA[
+     n. 镜子；真实的写照；榜样
+     vt. 反射；反映
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>chain</word>
+        <trans><![CDATA[
+     n. 链；束缚；枷锁
+     vt. 束缚；囚禁；用铁链锁住
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>board</word>
+        <trans><![CDATA[
+     n. 董事会；木板；甲板；膳食
+     vt. 上（飞机、车、船等）；用板盖上；给提供膳宿
+     vi. 寄宿
+     n. (Board)人名；(英、西)博德
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>handle</word>
+        <trans><![CDATA[
+     n. [建] 把手；柄；手感；口实
+     vt. 处理；操作；运用；买卖；触摸
+     vi. 搬运；易于操纵
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>cartoon</word>
+        <trans><![CDATA[
+     n. 卡通片，[电影] 动画片；连环漫画
+     vt. 为…画漫画
+     vi. 画漫画
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>bottle</word>
+        <trans><![CDATA[
+     n. 瓶子；一瓶的容量
+     vt. 控制；把…装入瓶中
+     vi. （街头艺人演出后）收拢钱币
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>wood</word>
+        <trans><![CDATA[
+     n. 木材；木制品；树林
+     vi. 收集木材
+     vt. 植林于；给…添加木柴
+     n. (Wood)人名；(英、法、西、葡、阿拉伯)伍德
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>clock</word>
+        <trans><![CDATA[
+     n. 时钟；计时器
+     vt. 记录；记时
+     vi. 打卡；记录时间
+     n. (Clock)人名；(英)克洛克
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>knife</word>
+        <trans><![CDATA[
+     n. 刀；匕首
+     vt. 用刀切；（口）伤害
+     vi. 劈开；划过
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>pen</word>
+        <trans><![CDATA[
+     n. 钢笔；作家；围栏
+     vt. 写；关入栏中
+     n. (Pen)人名；(法)庞；(俄、塞、英、意)佩恩；(柬)宾
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>book</word>
+        <trans><![CDATA[
+     n. 书籍；卷；账簿；名册；工作簿
+     vt. 预订；登记
+     n. (Book)人名；(中)卜(广东话·威妥玛)；(朝)北；(英)布克；(瑞典)博克
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>album</word>
+        <trans><![CDATA[
+     n. 相簿；唱片集；集邮簿；签名纪念册
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>menu</word>
+        <trans><![CDATA[
+     n. 菜单
+     饭菜
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>card</word>
+        <trans><![CDATA[
+     n. 卡片；纸牌；明信片
+     vt. 记于卡片上
+     n. (Card)人名；(英)卡德
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>envelope</word>
+        <trans><![CDATA[
+     n. 信封，封皮；包膜；[天] 包层；包迹
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>ticket</word>
+        <trans><![CDATA[
+     n. 票；入场券，标签；（美）候选人名单；证明书；交通罚款单
+     vt. 加标签于；指派；对…开出交通违规罚单
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>pipe</word>
+        <trans><![CDATA[
+     n. 管；烟斗；笛
+     vi. 吹笛；尖叫
+     vt. 用管道输送；尖声唱；用管乐器演奏
+     n. (Pipe)人名；(匈)皮佩；(英)派普
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>tube</word>
+        <trans><![CDATA[
+     n. 管；电子管；隧道；电视机
+     vt. 使成管状；把…装管；用管输送
+     vi. 乘地铁；不及格
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>wire</word>
+        <trans><![CDATA[
+     n. 电线；金属丝；电报
+     vt. 拍电报；给…装电线
+     vi. 打电报
+     n. (Wire)人名；(英)怀尔
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>belt</word>
+        <trans><![CDATA[
+     n. 带；腰带；地带
+     vt. 用带子系住；用皮带抽打
+     vi. 猛击
+     n. (Belt)人名；(英、法、德、西)贝尔特
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>web</word>
+        <trans><![CDATA[
+     n. 网；卷筒纸；蹼；织物；圈套
+     vt. 用网缠住；使中圈套
+     vi. 形成网
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>film</word>
+        <trans><![CDATA[
+     n. 电影；薄膜；胶卷；轻烟
+     vt. 在…上覆以薄膜；把…拍成电影
+     vi. 摄制电影；生薄膜；变得朦胧
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>screen</word>
+        <trans><![CDATA[
+     n. 屏，幕；屏风
+     vt. 筛；拍摄；放映；掩蔽
+     vi. 拍电影
+     n. (Screen)人名；(英)斯克林
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>gift</word>
+        <trans><![CDATA[
+     n. 礼物；天赋；赠品
+     vt. 赋予；向…赠送
+     n. (Gift)人名；(英)吉夫特
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>channel</word>
+        <trans><![CDATA[
+     vt. 引导，开导；形成河道
+     n. 通道；频道；沟渠；海峡
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>alarm</word>
+        <trans><![CDATA[
+     n. 闹钟；警报，警告器；惊慌
+     vt. 警告；使惊恐
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>electricity</word>
+        <trans><![CDATA[
+     n. 电力；电流；强烈的紧张情绪
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>towel</word>
+        <trans><![CDATA[
+     n. 毛巾，手巾；[纸] 纸巾
+     vt. 用毛巾擦
+     vi. 用毛巾擦干身体
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>carpet</word>
+        <trans><![CDATA[
+     n. 地毯；地毯状覆盖物；（非正式）人工球场；地毯衣蛾；（非正式）斥责
+     v. 把地毯铺在……上；厚厚地铺上；（非正式）斥责
+     n. (Carpet) （美、巴、印、法、比）卡尔佩特（人名）
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>tool</word>
+        <trans><![CDATA[
+     n. 工具，用具；器械，机床；手段
+     vi. 使用工具；用机床装备工厂
+     vt. 用工具给……加工
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>junk</word>
+        <trans><![CDATA[
+     n. 垃圾，废物；舢板
+     n. (Junk)人名；(德、捷)容克
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>fork</word>
+        <trans><![CDATA[
+     n. 叉；餐叉；耙
+     vt. 叉起；使成叉状
+     vi. 分叉；分歧
+     n. (Fork)人名；(英、德)福克
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>spoon</word>
+        <trans><![CDATA[
+     n. 匙，勺子；一杓的量
+     vt. 用匙舀；使成匙状
+     vi. 轻轻向上击
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>medicine</word>
+        <trans><![CDATA[
+     n. 药；医学；内科；巫术
+     vt. 用药物治疗；给…用药
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>drug</word>
+        <trans><![CDATA[
+     n. 药；毒品；麻醉药；滞销货
+     vt. 使服麻醉药；使服毒品；掺麻醉药于
+     vi. 吸毒
+     n. (Drug)人名；(罗)德鲁格
+    ]]></trans>
+        <tags>日常用品类</tags>
+    </item>
+    <item>
+        <word>pill</word>
+        <trans><![CDATA[
+     n. 药丸；弹丸，子弹；口服避孕药
+     vt. 把…制成丸剂；使服用药丸；抢劫，掠夺（古语）
+     vi. 做成药丸；服药丸
+     n. (Pill)人名；(英)皮尔
+    ]]></trans>
+        <tags>日常用品类</tags>
     </item>
 </wordbook>

@@ -46,6 +46,7 @@ async function translateGroup(groupItem) {
           word,
           paraphrase: res
         });
+        return;
       });
     });
   }, Promise.resolve());
@@ -56,11 +57,13 @@ async function translate(words) {
   const results = [];
   await words.reduce((chain, groupItem) => {
     return chain.then(() => {
+      console.log('Processing: ' + groupItem.group);
       return translateGroup(groupItem).then(res => {
         results.push({
           group: groupItem.group,
           words: res
         });
+        return;
       });
     });
   }, Promise.resolve());
