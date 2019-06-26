@@ -6,4 +6,8 @@
 
 ### 如何使用
 
-将需要导入的单词写在words.js，此为一个json结构的数据，然后运行`node index`即可
+1. 将需要导入的单词写在 `words.js`，此为一个json结构的数据，
+
+2. 运行 `node index`，生成 `import.xml`
+
+3. 将 `import.xml` 导入到有道翻译单词本
