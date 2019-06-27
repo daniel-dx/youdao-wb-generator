@@ -1,64 +1,103 @@
 [
   {
-    "group": "事物关系形容词-特殊性",
+    "group": "限定词-顺序",
     "words": [
-      "special",
-      "regular"
+      "last",
+      "next"
     ]
   },
   {
-    "group": "事物关系形容词-一致性",
+    "group": "限定词-数量",
     "words": [
-      "same",
-      "different"
+      "all",
+      "any",
+      "some",
+      "both",
+      "each",
+      "either",
+      "neither",
+      "every",
+      "few",
+      "many",
+      "much"
     ]
   },
   {
-    "group": "事物关系形容词-普遍性",
+    "group": "限定词-指代",
     "words": [
-      "typical",
-      "normal",
-      "common",
-      "general",
-      "popular",
-      "average",
-      "particular",
-      "own"
+      "this",
+      "that",
+      "these",
+      "those",
+      "another",
+      "such"
     ]
   },
   {
-    "group": "事物关系形容词-重要性",
+    "group": "限定词-代词",
     "words": [
-      "serious",
-      "causal",
-      "important",
-      "main",
-      "formal",
-      "professional"
+      "I",
+      "you",
+      "he",
+      "she",
+      "we",
+      "they",
+      "it"
     ]
   },
   {
-    "group": "事物关系形容词-必要性",
+    "group": "限定词-疑问代词",
     "words": [
-      "necessary"
+      "which",
+      "who"
     ]
   },
   {
-    "group": "事物关系形容词-关联性",
+    "group": "限定词-冠词",
     "words": [
-      "free",
-      "relative",
-      "legal",
-      "physical",
-      "mental",
-      "local",
-      "native",
-      "international",
-      "cheap",
-      "expensive",
-      "separate",
-      "public",
-      "worth"
+      "a",
+      "an",
+      "the"
+    ]
+  },
+  {
+    "group": "限定词-感叹词",
+    "words": [
+      "bye",
+      "hello",
+      "no",
+      "yes",
+      "pardon",
+      "please",
+      "wow",
+      "damn"
+    ]
+  },
+  {
+    "group": "限定词-缩略词",
+    "words": [
+      "Mr",
+      "Ms"
+    ]
+  },
+  {
+    "group": "限定词-数词",
+    "words": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten",
+      "hundred",
+      "thousand",
+      "million",
+      "billion"
     ]
   }
 ]
