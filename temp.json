@@ -1,0 +1,49 @@
+[
+  {
+    "group": "动态属性-方式",
+    "words": [
+      "form",
+      "way",
+      "behavior",
+      "mood",
+      "logic",
+      "tradition",
+      "culture",
+      "style",
+      "pattern",
+      "relation",
+      "manner"
+    ]
+  },
+  {
+    "group": "动态属性-原因",
+    "words": [
+      "cause",
+      "reason",
+      "source",
+      "excuse",
+      "factor"
+    ]
+  },
+  {
+    "group": "动态属性-目的",
+    "words": [
+      "purpose",
+      "goal"
+    ]
+  },
+  {
+    "group": "动态属性-结果",
+    "words": [
+      "effect",
+      "result"
+    ]
+  },
+  {
+    "group": "动态属性-过程",
+    "words": [
+      "course",
+      "process"
+    ]
+  }
+]
