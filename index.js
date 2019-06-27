@@ -4,6 +4,9 @@ const xml = require('xml');
 const _ = require('lodash');
 const fs = require('fs-extra');
 const words = require('./words');
+const _cliProgress = require('cli-progress');
+
+const bar1 = new _cliProgress.Bar({}, _cliProgress.Presets.shades_classic);
 
 function translateWord(word) {
   return axios
@@ -54,15 +57,16 @@ async function translateGroup(groupItem) {
 }
 
 async function translate(words) {
+  bar1.start(words.length, 0);
   const results = [];
   await words.reduce((chain, groupItem) => {
     return chain.then(() => {
-      console.log('Processing: ' + groupItem.group);
       return translateGroup(groupItem).then(res => {
         results.push({
           group: groupItem.group,
           words: res
         });
+        bar1.update(results.length);
         return;
       });
     });
@@ -80,7 +84,6 @@ async function main() {
     .flatten()
     .value();
   const importXML = toXML(importObj);
-  console.log(importXML);
   fs.writeFileSync('./import.xml', importXML);
 }
 
