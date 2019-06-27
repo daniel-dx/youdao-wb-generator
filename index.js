@@ -85,6 +85,7 @@ async function main() {
     .value();
   const importXML = toXML(importObj);
   fs.writeFileSync('./import.xml', importXML);
+  console.log('Done!');
 }
 
 main();

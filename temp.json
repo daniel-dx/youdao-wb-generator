@@ -1,49 +1,64 @@
 [
   {
-    "group": "动态属性-方式",
+    "group": "事物关系形容词-特殊性",
     "words": [
-      "form",
-      "way",
-      "behavior",
-      "mood",
-      "logic",
-      "tradition",
-      "culture",
-      "style",
-      "pattern",
-      "relation",
-      "manner"
+      "special",
+      "regular"
     ]
   },
   {
-    "group": "动态属性-原因",
+    "group": "事物关系形容词-一致性",
     "words": [
-      "cause",
-      "reason",
-      "source",
-      "excuse",
-      "factor"
+      "same",
+      "different"
     ]
   },
   {
-    "group": "动态属性-目的",
+    "group": "事物关系形容词-普遍性",
     "words": [
-      "purpose",
-      "goal"
+      "typical",
+      "normal",
+      "common",
+      "general",
+      "popular",
+      "average",
+      "particular",
+      "own"
     ]
   },
   {
-    "group": "动态属性-结果",
+    "group": "事物关系形容词-重要性",
     "words": [
-      "effect",
-      "result"
+      "serious",
+      "causal",
+      "important",
+      "main",
+      "formal",
+      "professional"
     ]
   },
   {
-    "group": "动态属性-过程",
+    "group": "事物关系形容词-必要性",
     "words": [
-      "course",
-      "process"
+      "necessary"
+    ]
+  },
+  {
+    "group": "事物关系形容词-关联性",
+    "words": [
+      "free",
+      "relative",
+      "legal",
+      "physical",
+      "mental",
+      "local",
+      "native",
+      "international",
+      "cheap",
+      "expensive",
+      "separate",
+      "public",
+      "worth"
     ]
   }
 ]
